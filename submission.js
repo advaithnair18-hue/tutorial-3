@@ -1,5 +1,3 @@
-submission.js
-
 let even_predicate = function (value)
 {
     //Rejects null and undefined values
